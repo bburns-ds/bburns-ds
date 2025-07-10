@@ -1,3 +1,1 @@
-Hello there 👋. I am @bburns-ds, a first-year CSE PhD student at Georgia Tech advised by Peng Chen.
-
-Check out my website [here](https://bburns.xyz/)
+Hello there 👋. I am a ~~first-year~~ second-year CSE PhD student at Georgia Tech advised by Peng Chen.
