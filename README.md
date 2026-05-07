@@ -1,6 +1,6 @@
 Hello there 👋. I am 
 
 - a second-year PhD student in [Computational Science and Engineering](https://cse.gatech.edu/) at [Georgia Tech](https://www.gatech.edu/)
-- co-advised by [Peng Chen](https://faculty.cc.gatech.edu/~pchen402/index.html) and [Sara Fridovich-Keil](https://sarafridov.github.io/)
+- advised by [Sara Fridovich-Keil](https://sarafridov.github.io/)
 - researching generative methods for posterior sampling
 - supported by the NSF Graduate Research Fellowship Program
